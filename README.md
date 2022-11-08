@@ -16,7 +16,7 @@ In the early 2010s, I completed an **apprenticeship as an IT specialist for appl
 
 ## 💼 My company/work related GitHub account
 
-<img src="https://www.cluetec.de/fileadmin/img/favicon.ico" alt="cluetec icon" height="14" width="14" /> cluetec GmbH: <a href="https://github.com/florianrusch-cluetec" title="GitHub - florianrusch-cluetec"><img src="https://img.shields.io/badge/GitHub-florianrusch−cluetec-white?style=flat&logo=github&logoColor=white" height="18" style="vertical-align: text-top;" /></a>
+<img src="https://avatars.githubusercontent.com/u/11868450" alt="cluetec icon" height="14" width="14" /> cluetec GmbH: <a href="https://github.com/florianrusch-cluetec" title="GitHub - florianrusch-cluetec"><img src="https://img.shields.io/badge/GitHub-florianrusch−cluetec-white?style=flat&logo=github&logoColor=white" height="18" style="vertical-align: text-top;" /></a>
 
 - [🌍 Website](https://www.cluetec.de/en/)
 - [💼 Carriere](https://www.cluetec.de/unternehmen/karriere-bei-cluetec/)
