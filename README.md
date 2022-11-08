@@ -1,5 +1,3 @@
-<!-- <div align="center"> -->
-
 # Hi, I'm Florian 👋
 
 I'm a DevSecOps Engineer working at [**cluetec GmbH**](https://cluetec.de), a german software company placed in Karlruhe. Since the early 2010s I'm working as a software developer and since 2018 also in the DevSecOps area. I mainly work in the field of web development (frontend, as well as backend) and especially like to focus on the operational part.
@@ -8,11 +6,13 @@ In the early 2010s, I completed an **apprenticeship as an IT specialist for appl
 
 ## 🦄 Skills & Tools
 
-👨‍💻 Programming Skills: HTML, CSS, JavaScript, Vue.js, Go, PHP, Java, Spring Boot, Jakarta, and Kotlin
+👨‍💻 Programming Skills: HTML, CSS, JavaScript, Vue.js, Go, Fiber, Zerolog, PHP, Laravel, Java, Spring Boot, and Jakarta
 
-🛠️ Tools: Visual Studio Code, JetBrains IDEs, Postman, and Git
+🛠️ Programming Tools: JetBrains IDEs, Visual Studio Code, Nvim, Postman, Git, GitHub, GitLab, Azure DevOps, and a lot more!!
 
-⚙️ Plattforms: Microsoft Azure, Kubernetes, OpenShift, (Docker) Container, and of course Linux
+💡 Cool Applications & Tools: Prometheus, Grafana, Operator SDK, Helm, Helmfile, ...
+
+⚙️ Platforms: Microsoft Azure, Kubernetes, OpenShift, (Docker) Container, and of course Linux
 
 ## 💼 My company/work related GitHub accounts:
 
@@ -38,10 +38,6 @@ Here are some other places you can find me on the internet:
   <img height="180em" title="Florian Rusch's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=florianrusch&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&bg_color=90,282A36,80165B" />
   <img height="180em" title="Florian Rusch's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianrusch&layout=compact&custom_title=Most%20Used%20Languages%20on%20GitHub&theme=dracula&langs_count=8&bg_color=90,282A36,80165B" />
 </a>
-
-<!-- 45,282A36,651148 -->
-<!-- </div> -->
-
 
 <!-- GitHub Profile Inspirations:
 - https://github.com/aler9
