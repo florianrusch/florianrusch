@@ -14,21 +14,15 @@ In the early 2010s, I completed an **apprenticeship as an IT specialist for appl
 
 ⚙️ Platforms: Microsoft Azure, Kubernetes, OpenShift, (Docker) Container, and of course Linux
 
-## 💼 My company/work related GitHub accounts
+## 💼 My company/work related GitHub account
 
-### <img src="https://www.cluetec.de/fileadmin/img/favicon.ico" alt="cluetec icon" height="14" width="14" /> cluetec GmbH: <a href="https://github.com/florianrusch-cluetec" title="GitHub - florianrusch-cluetec"><img src="https://img.shields.io/badge/GitHub-florianrusch−cluetec-white?style=flat&logo=github&logoColor=white" height="18" style="vertical-align: text-top;" /></a>
+<img src="https://www.cluetec.de/fileadmin/img/favicon.ico" alt="cluetec icon" height="14" width="14" /> cluetec GmbH: <a href="https://github.com/florianrusch-cluetec" title="GitHub - florianrusch-cluetec"><img src="https://img.shields.io/badge/GitHub-florianrusch−cluetec-white?style=flat&logo=github&logoColor=white" height="18" style="vertical-align: text-top;" /></a>
 
 - [🌍 Website](https://www.cluetec.de/en/)
 - [💼 Carriere](https://www.cluetec.de/unternehmen/karriere-bei-cluetec/)
 - [🏆 Success Stories](https://www.cluetec.de/en/success-stories/)
 - [⚖️ Privacy Policy](https://www.cluetec.de/en/privacy-policy-220803/)
 - [⚖️ Legal Notice](https://www.cluetec.de/en/legal-notice/)
-
-### <img src="https://www.zf.com/master/media/toolbox/assets/img/ces_favicon~1.png" alt="ZF icon" height="14" width="14" /> ZF Friedrichshafen AG: <a href="https://github.com/florianrusch-zf" title="GitHub - florianrusch-zf"><img src="https://img.shields.io/badge/GitHub-florianrusch−zf-white?style=flat&logo=github&logoColor=white" height="18" style="vertical-align: text-top;" /></a>
-
-- [🌍 Website](https://www.zf.com/)
-- [⚖️ Data protection notice](https://www.zf.com/site/meta/en/data_protection.html)
-- [⚖️ Imprint](https://www.zf.com/site/meta/en/imprint.html)
 
 ## 🤳 Where you can find me
 
