@@ -1,4 +1,7 @@
-# Hi, I'm Florian 👋
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ebcea2,100:a16838"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=23&duration=3000&pause=1000&color=B27E50&vCenter=true&random=false&width=360&lines=%F0%9F%91%8B+Hi%2C+I'm+Florian;Happy+to+see+you+%F0%9F%98%83;Let's+do+awesome+stuff!+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 I'm a DevSecOps Engineer working at [**cluetec GmbH**](https://cluetec.de), a German software company located in Karlruhe. Since the early 2010s, I've been working as a software developer, and since 2018, I've also been in the DevSecOps area. I mainly work in the field of web development (frontend as well as backend) and especially like to focus on the operational part.
 
@@ -29,6 +32,8 @@ Here are some other places you can find me on the internet:
   <img height="180em" title="Florian Rusch's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianrusch&layout=compact&custom_title=Most%20Used%20Languages%20on%20GitHub&theme=dracula&langs_count=8&bg_color=90,282A36,80165B" />
 </a>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:ebcea2,100:a16838&section=footer"/>
+</div>
 <!-- GitHub Profile Inspirations:
 - https://github.com/ringabout
 - https://github.com/jdhao
