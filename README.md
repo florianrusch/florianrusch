@@ -1,8 +1,8 @@
 # Hi, I'm Florian 👋
 
-I'm a DevSecOps Engineer working at [**cluetec GmbH**](https://cluetec.de), a german software company placed in Karlruhe. Since the early 2010s I'm working as a software developer and since 2018 also in the DevSecOps area. I mainly work in the field of web development (frontend, as well as backend) and especially like to focus on the operational part.
+I'm a DevSecOps Engineer working at [**cluetec GmbH**](https://cluetec.de), a German software company located in Karlruhe. Since the early 2010s, I've been working as a software developer, and since 2018, I've also been in the DevSecOps area. I mainly work in the field of web development (frontend as well as backend) and especially like to focus on the operational part.
 
-In the early 2010s, I completed an **apprenticeship as an IT specialist for application development** (in german "Fachinformatiker für Anwendungsentwicklung") at an internet agency. Afterwards, I started my **studies in business informatics** at the Karlsruhe University of Applied Sciences (in german "Hochschule Karlsruhe") and graduated with a **master's degree** in 2021. Since then I have been working full time as a DevSecOps Engineer at [**cluetec GmbH**](https://cluetec.de), where I am involved in cloud migration and several customer projects.
+In the early 2010s, I completed an **apprenticeship as an IT specialist for application development** (in German: "Fachinformatiker für Anwendungsentwicklung") at an internet agency. Afterwards, I started my **studies in business informatics** at the Karlsruhe University of Applied Sciences and graduated with a **master's degree** in 2021. Since then, I have been working full time as a DevSecOps Engineer at [**cluetec GmbH**](https://cluetec.de), where I am involved in cloud migration and several customer projects.
 
 ## 🦄 Skills & Tools
 
@@ -13,16 +13,6 @@ In the early 2010s, I completed an **apprenticeship as an IT specialist for appl
 💡 Cool Applications & Tools: Prometheus, Grafana, Operator SDK, Helm, Helmfile, ...
 
 ⚙️ Platforms: Microsoft Azure, Kubernetes, OpenShift, (Docker) Container, and of course Linux
-
-## 💼 My company/work related GitHub account
-
-<img src="https://avatars.githubusercontent.com/u/11868450" alt="cluetec icon" height="14" width="14" /> cluetec GmbH: <a href="https://github.com/florianrusch-cluetec" title="GitHub - florianrusch-cluetec"><img src="https://img.shields.io/badge/GitHub-florianrusch−cluetec-white?style=flat&logo=github&logoColor=white" height="18" style="vertical-align: text-top;" /></a>
-
-- [🌍 Website](https://www.cluetec.de/en/)
-- [💼 Carriere](https://www.cluetec.de/unternehmen/karriere-bei-cluetec/)
-- [🏆 Success Stories](https://www.cluetec.de/en/success-stories/)
-- [⚖️ Privacy Policy](https://www.cluetec.de/en/privacy-policy-220803/)
-- [⚖️ Legal Notice](https://www.cluetec.de/en/legal-notice/)
 
 ## 🤳 Where you can find me
 
@@ -40,9 +30,7 @@ Here are some other places you can find me on the internet:
 </a>
 
 <!-- GitHub Profile Inspirations:
-- https://github.com/aler9
 - https://github.com/ringabout
-- https://github.com/marcusolsson
 - https://github.com/jdhao
 - https://github.com/jonataslaw
 - https://github.com/micaellimedeiros -->
