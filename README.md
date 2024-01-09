@@ -28,11 +28,10 @@ Here are some other places you can find me on the internet:
 
 ## 📈 My Stats
 <a href="https://github.com/florianrusch">
-  <img height="180em" title="Florian Rusch's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=florianrusch&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&bg_color=90,282A36,80165B" />
-  <img height="180em" title="Florian Rusch's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianrusch&layout=compact&custom_title=Most%20Used%20Languages%20on%20GitHub&theme=dracula&langs_count=8&bg_color=90,282A36,80165B" />
+  <img height="180em" title="Florian Rusch's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=florianrusch&count_private=true&show_icons=true&title_color=2c3e50&text_color=2c3e50&bg_color=30,ebcea2,724c2e" />
 </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:ebcea2,100:a16838&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:a16838,100:ebcea2&section=footer"/>
 </div>
 <!-- GitHub Profile Inspirations:
 - https://github.com/ringabout
